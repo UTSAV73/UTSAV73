@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UTSAV73.UTSAV73" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=UTSAV73&icon=7&color=5" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Utsav+Joshi!;" />
@@ -14,12 +14,11 @@
  
  🌱 I’m currently learning **Machine Learning, React, node.js**
 
- 💬 Ask me about **Competitive programming, Projects, Data structures... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Competitive programming, Projects, Data structures... or anything [here](https://github.com/UTSAV73/UTSAV73/issues)**
 
- ⚡ About me**Junior at DTU (previously DCE) purusing software Engineering</br>
-I'm an electronics and software enthusiast and I love to learn about new technologies.</br>
-Currently learning Machine learning and doing cp.</br>
-Don't ask me my GPA!</br>**
+ ⚡ I am a junior at DTU (previously DCE) purusing software Engineering</br>
+ ⚡ I'm an electronics and software enthusiast and I love to learn about new technologies.</br>
+ ⚡ Currently learning Machine learning and doing cp.</br>
  
  </div>
  
@@ -40,7 +39,7 @@ Don't ask me my GPA!</br>**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,mongodb,c,c++,php" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,mongodb,c,cpp,php" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,flask,html,css,vscode,figma,git" />
 </div>
 
@@ -60,18 +59,20 @@ Don't ask me my GPA!</br>**
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- ![](https://github-readme-stats.vercel.app/api?username=UTSAV73&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UTSAV73&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UTSAV73&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=UTSAV73&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAV73&theme=synthwave&hide_border=false" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTSAV73&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
+
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+ready+to+learn:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+ready+to+learn+😎;">
 </h3>
- 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
