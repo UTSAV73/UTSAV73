@@ -22,9 +22,10 @@
  
  </div>
  
+   <div align="right">
+<img  height="150" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
+   </div>
    
-<img align="right" height="150 src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
-
 <div align="center"> 
   <a href="mailto:utsavj2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
