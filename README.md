@@ -23,7 +23,7 @@
  </div>
  
    
-<img aligh="right" height="150 src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
+<img align="right" height="150 src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
 
 <div align="center"> 
   <a href="mailto:utsavj2@gmail.com">
