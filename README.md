@@ -12,7 +12,9 @@
  
  🔭 I’m currently working on **Hunger hive, a full-stack Restaurant Management Website**
  
- 🌱 I’m currently learning **Machine Learning, React, node.js**
+ 🌱 I’m currently learning **Machine Learning, React, node.js** 
+ <img align="right" height="150" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
+   
 
  💬 Ask me about **Competitive programming, Projects, Data structures... or anything [here](https://github.com/UTSAV73/UTSAV73/issues)**
 
