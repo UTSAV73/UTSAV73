@@ -12,9 +12,7 @@
  
  🔭 I’m currently working on **Hunger hive, a full-stack Restaurant Management Website**
  
- 🌱 I’m currently learning **Machine Learning, React, node.js** 
- <img align="right" height="150" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
-   
+ 🌱 I’m currently learning **Machine Learning, React, node.js**    
 
  💬 Ask me about **Competitive programming, Projects, Data structures... or anything [here](https://github.com/UTSAV73/UTSAV73/issues)**
 
@@ -23,10 +21,7 @@
  ⚡ Currently learning Machine learning and doing competitive programming.</br>
  
  </div>
- 
-   <div align="right">
-<img  height="150" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
-   </div>
+
    
 <div align="center"> 
   <a href="mailto:utsavj2@gmail.com">
@@ -83,3 +78,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
+![gify](https://github.com/UTSAV73/UTSAV73/assets/65773857/416dc204-ca4c-4729-9f49-199978183548)
+
+
