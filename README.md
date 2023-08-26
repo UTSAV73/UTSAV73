@@ -21,7 +21,9 @@
  ⚡ Currently learning Machine learning and doing cp.</br>
  
  </div>
- 
+ <div>
+     ![](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
+ </div>
 <div align="center"> 
   <a href="mailto:utsavj2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
