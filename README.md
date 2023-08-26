@@ -1,18 +1,22 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=UTSAV73&icon=7&color=5" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Utsav+Joshi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Utsav+Joshi+!;" />
 </h1>
 
 <h3 align="center">A passionate software engineer </h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
+    
+ <img align="right" height="150" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" />
  
  🔭 I’m currently working on **Hunger hive, a full-stack Restaurant Management Website**
+
  
  🌱 I’m currently learning **Machine Learning, React, node.js**    
+
 
  💬 Ask me about **Competitive programming, Projects, Data structures... or anything [here](https://github.com/UTSAV73/UTSAV73/issues)**
 
@@ -48,7 +52,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 HELP! THIS SNAKE IS EATING MY CONTRIBUTIONS 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -71,13 +75,13 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+ready+to+learn+😎;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+!;I'm+always+ready+to+learn+😎;">
 </h3>
 
 ### ✍️ Random Dev Quote
+<img align="right" height="150" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
-![gify](https://github.com/UTSAV73/UTSAV73/assets/65773857/416dc204-ca4c-4729-9f49-199978183548)
 
 
