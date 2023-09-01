@@ -65,6 +65,7 @@
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=UTSAV73&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true"/>
+    
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAV73&theme=synthwave&hide_border=false" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTSAV73&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
@@ -80,6 +81,7 @@
 
 ### ✍️ Random Dev Quote
 <img align="right" height="150" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
