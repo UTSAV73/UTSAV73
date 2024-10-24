@@ -15,7 +15,7 @@
  🔭 I’m currently working on **Hunger hive, a full-stack Restaurant Management Website**
 
  
- 🌱 I’m currently learning **Machine Learning, React, node.js**    
+ 🌱 I’m currently learning **Machine Learning, React, node.js, Flask, PHP, AI**    
 
 
  💬 Ask me about **Competitive programming, Projects, Data structures... or anything [here](https://github.com/UTSAV73/UTSAV73/issues)**
@@ -34,8 +34,8 @@
   <a href="www.linkedin.com/in/ujjj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://UTSAV73.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://vocal-starburst-5eb621.netlify.app/">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
